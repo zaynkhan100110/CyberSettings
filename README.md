@@ -34,33 +34,33 @@
 
 
 
-## Screenshot (using <a href="https://github.com/zaynkhan100110/CyberShot">CyberShot</a>)
+## Screenshot 
 
 
 ### Main Interface
 
-![Main Interface](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/main_interface.png)
+![Main Interface](https://raw.githubusercontent.com/spoilpetal/Picture_Vault/main/CyberSettings/CyberSettings_0.1.0/main_interface.png)
 
 ## Wifi SSID List (when enabled)
 
-![Wifi List](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/wifi_scnanned.png)
+![Wifi List](https://raw.githubusercontent.com/spoilpetal/Picture_Vault/main/CyberSettings/CyberSettings_0.1.0/wifi_scnanned.png)
 
 ### Wifi (when disable) 
 
-![Wifi Disable](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/wifi_disable.png)  
+![Wifi Disable](https://raw.githubusercontent.com/spoilpetal/Picture_Vault/main/CyberSettings/CyberSettings_0.1.0/wifi_disable.png)  
  
 ### Bluetooth scaning
 
-![Bluetooth scaning](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/bluetooth_scaning.png)
+![Bluetooth scaning](https://raw.githubusercontent.com/spoilpetal/Picture_Vault/main/CyberSettings/CyberSettings_0.1.0/bluetooth_scaning.png)
 
 ### Bluetooth (when enable unsure your system have bluetooth device/chip !) 
 
-![Bluetooth enable](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/bluetooth_device_scaned.png)
+![Bluetooth enable](https://raw.githubusercontent.com/spoilpetal/Picture_Vault/main/CyberSettings/CyberSettings_0.1.0/bluetooth_device_scaned.png)
 
 
 ### Bluetooth (when disable)
 
-![Bluetooth disable](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/bluetooth_disable.png)
+![Bluetooth disable](https://raw.githubusercontent.com/spoilpetal/Picture_Vault/main/CyberSettings/CyberSettings_0.1.0/bluetooth_disable.png)
  
 
 
