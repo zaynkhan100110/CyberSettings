@@ -1,4 +1,4 @@
-# CyberSettings
+<h1 align="center">CyberSettings</h1>
 
 **CyberSettings** is a Rust command-line utility and keyboard-driven terminal UI for controlling common desktop settings. The current functional backend targets Linux systems using standard desktop utilities.
 
@@ -13,6 +13,7 @@
 ## Contents
 
 - [Features](#features)
+- [Screenshot](#screenshot)
 - [Platform support](#platform-support)
 - [Requirements](#requirements)
 - [Build from source](#build-from-source)
@@ -27,6 +28,41 @@
 - [Roadmap](#roadmap)
 
 ## Features
+
+
+
+
+
+
+## Screenshot (using <a href="https://github.com/zaynkhan100110/CyberShot">CyberShot</a>)
+
+
+### Main Interface
+
+![Main Interface](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/main_interface.png)
+
+## Wifi SSID List (when enabled)
+
+![Wifi List](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/wifi_scnanned.png)
+
+### Wifi (when disable) 
+
+![Wifi Disable](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/wifi_disable.png)  
+ 
+### Bluetooth scaning
+
+![Bluetooth scaning](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/bluetooth_scaning.png)
+
+### Bluetooth (when enable unsure your system have bluetooth device/chip !) 
+
+![Bluetooth enable](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/bluetooth_device_scaned.png)
+
+
+### Bluetooth (when disable)
+
+![Bluetooth disable](https://github.com/spoilpetal/Picture_Vault/blob/main/CyberSettings/CyberSettings_0.1.0/bluetooth_disable.png)
+ 
+
 
 ### Linux controls
 
